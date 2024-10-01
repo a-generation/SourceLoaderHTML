@@ -1,21 +1,24 @@
-MIT License
+A-Generation Software License 1.0
 
-Copyright (c) 2024 A-Generation
+1. Applicability of the License
+This license is valid exclusively within the GitHub repositories of the developer "A-Generation." Any other users or developers who attempt to apply this license to their repositories do so unlawfully, and their use of the license is automatically voided. This license grants rights only concerning projects hosted within repositories owned and managed by "A-Generation." Repositories not associated with "A-Generation" are not permitted to reference this license. Any breach of this condition will result in the immediate revocation of all rights granted by this license.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Definition of Software and Its Use
+The software (Software) distributed under this license includes both the source code and, in some cases, precompiled binary releases (such as exe files), which users are allowed to download and use. The Software can be of any type and is not restricted to specific functions or purposes, providing the user with the freedom to modify and use it. Users have the right to fully alter and redistribute their versions of the Software, but only under the condition of good-faith usage. Attribution to the original creator is voluntary but encouraged, and can be provided as a link to "https://github.com/a-generation/" or by mentioning "@a-generation". Modifications should not violate the principle of good-faith usage.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Disclaimer of Liability
+By downloading the Software, the user automatically agrees that A-Generation is not liable for any outcomes or consequences related to the use of the Software. A-Generation acts as a free publisher, providing the source code openly without any guarantees regarding its functionality or fitness for any specific purpose. The license also absolves A-Generation from responsibility for the contents of the repository, including any changes made to the source code. The developer reserves the right to modify the code, remove portions of it, and release or withdraw versions at its discretion. The user acknowledges that the repository may be deleted at any time without prior notice.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Disclaimer of Warranties
+The Software is provided "as is," without any warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. A-Generation makes no guarantee that the Software will be free of defects, bugs, or security vulnerabilities. Users assume full responsibility for determining the appropriateness of using the Software and for any consequences associated with its use.
+
+5. Limitation of Liability
+In no event shall A-Generation be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, or damages for loss of profits, revenue, data, or data use, arising out of or in any way connected with the use of the Software, whether in an action of contract, tort, or otherwise, even if A-Generation has been advised of the possibility of such damages.
+
+6. No Obligation for Maintenance or Support
+A-Generation is under no obligation to provide maintenance, support, updates, enhancements, or modifications for the Software. Users are responsible for managing their own versions and ensuring that any modifications or usage comply with their systems' requirements.
+
+7. User's Responsibility for Compliance and Use
+The user assumes full responsibility for ensuring that the Software is appropriate for their specific needs and is compatible with their hardware, software, and systems. Users are solely responsible for any actions they take with the Software and for any third-party claims that may arise from their use of the Software.
+
+This repository is owned by A-Generation and is licensed under the A-Generation Software License, version dated October 1st, 2024 (01.10.2024). For more details, please visit https://a-generation.github.io/lic/1.0.html.
